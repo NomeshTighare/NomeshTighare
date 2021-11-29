@@ -53,3 +53,16 @@ Here are some ideas to get you started:
 <br/>
 
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/nomeshtighare"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://instagram.com/n_o_m_u_04?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NomeshTighare">
+</a>
+<a href="https://github.com/NomeshTighare?tab=followers"><img src="https://img.shields.io/github/followers/NomeshTighare?label=Followers&style=social" alt="GitHub Badge"></a>
