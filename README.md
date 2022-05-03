@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Github Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Github Stats
 
   <br/>
     <a href="https://github.com/NomeshTighare/github-readme-stats"><img alt="Nomesh Tighare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NomeshTighare&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -55,8 +55,12 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nomeshtighare"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
