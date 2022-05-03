@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - website: **http://nomeshtighare.github.io**
 
 
-### 🚀 Languages and Tools:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Languages and Tools:
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-## 📊 My Github Stats
+##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Github Stats
 
   <br/>
     <a href="https://github.com/NomeshTighare/github-readme-stats"><img alt="Nomesh Tighare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NomeshTighare&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-## Connect with me:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nomeshtighare"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
