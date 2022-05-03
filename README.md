@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **nomeshtighare@gmail.com**
 - website: **http://nomeshtighare.github.io**
 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Languages and Tools:
 
 
@@ -55,10 +55,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
 <p align="left">
