@@ -54,8 +54,6 @@ Languages and Tools:
 
 <br/>
 <br/>
-![My github status](https://github-readme-stats.vercel.app/api?username=NomeshTighare&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NomeshTighare&langs_count=12&layout=compact)
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
